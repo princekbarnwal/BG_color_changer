@@ -1,0 +1,51 @@
+/* *{
+    background-color: black;
+} */
+.nav{
+    background-color: white;
+    margin-top: 41%;
+    margin-left: 21%;
+    margin-right: 22%;
+    display: flex;
+    border-left: 3px solid whitesmoke;
+    border-bottom: 3px solid whitesmoke;
+    border-right: 3px solid whitesmoke;
+    padding: 2px 2px 2px 2px;
+}
+.tabs{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 0.5%;
+}
+#Red{
+    margin-left: 20px;
+    background-color: red;
+}
+#Yellow{
+    margin-left: 20px;
+    background-color: yellow;
+}
+#Black{
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+}
+#Purple{
+    margin-left: 20px;
+    background-color: purple;
+}
+#Green{
+    margin-left: 20px;
+    background-color: green;
+}
+#Blue{
+    margin-left: 20px;
+    background-color: blue;
+}
+#White{
+    margin-left: 20px;
+    background-color: rgb(123, 110, 110);
+}
