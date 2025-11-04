@@ -34,6 +34,7 @@
 // }
 // g.addEventListener('click',change6);
 
+// using array
 
 const a=document.querySelectorAll('.tabs');
 a.forEach((val)=>{
